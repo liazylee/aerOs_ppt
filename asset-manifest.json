@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aerOs_ppt/static/css/main.585310e7.css",
+    "main.js": "/aerOs_ppt/static/js/main.5ff41184.js",
+    "index.html": "/aerOs_ppt/index.html",
+    "main.585310e7.css.map": "/aerOs_ppt/static/css/main.585310e7.css.map",
+    "main.5ff41184.js.map": "/aerOs_ppt/static/js/main.5ff41184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.585310e7.css",
+    "static/js/main.5ff41184.js"
+  ]
+}
